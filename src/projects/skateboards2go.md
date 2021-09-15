@@ -1,6 +1,6 @@
 ---
 title: Skateboards2Go
-stack: Vue & Firebase
+stack: HTML & CSS 
 slug: skateboards-to-go
 date: 2021-02-01T00:00:00+00:00
 thumb: ../images/thumbs/skate.png

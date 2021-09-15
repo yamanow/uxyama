@@ -1,6 +1,6 @@
 ---
 title: Real Kitchen Food
-stack: Gatsby & Shopify
+stack: HTML & CSS
 slug: real-kitchen-food
 date: 2021-01-05T00:00:00+00:00
 thumb: ../images/thumbs/food.png
