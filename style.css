@@ -1,12 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
 * {
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: "Roboto", sans-serif;
+  background-color: #242333;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
 }
+
+
 
 section {
     margin: 10% 20%;
@@ -27,14 +38,4 @@ p {
     font-size:1.1rem;
     line-height:170%;
     color:rgb(30,30,30);
-}
-
-#progress-bar {
-    positioN:fixed;
-    top:0;
-    left:0;
-    height:8px;
-    background:linear-gradient(to right, #ff5f6d, #ffc371);
-    width:0%;
-    z-index:4;
 }
